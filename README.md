@@ -29,12 +29,7 @@ Barkit offers a centralized platform with AI-assisted support, step-by-step firs
 ### Home Screen
 
 <img src="home.png" width="250"/>  
-Provides quick access to emergency features, AI chat, and feed.
-
-### AI
-
-<img src="ai.png" width="250"/>  
-Highlights AI-powered assistance features.
+Provides quick access to emergency features and includes AI-powered assistance for immediate guidance.
 
 ### AI Chat
 
